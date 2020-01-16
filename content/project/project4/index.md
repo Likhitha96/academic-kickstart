@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Distributed Stochastic Gradient Descent"
+title: "Visual Question Answering"
 summary: ""
 authors: []
-tags: [Distributed Computing, Machine Learning]
+tags: [Vision, Natural language, Deep Learning]
 categories: []
-date: 2017-10-01
+date: 2018-03-01
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Distributed Stochastic Gradient Descent"
+title: "Repair Services Application"
 summary: ""
 authors: []
-tags: [Distributed Computing, Machine Learning]
-categories: []
-date: 2017-10-01
+tags: []
+categories: [Web Application]
+date: 2018-01-01
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Distributed Stochastic Gradient Descent"
+title: "Visualizing Phenotype Genotype Association"
 summary: ""
 authors: []
-tags: [Distributed Computing, Machine Learning]
+tags: [Big data, Bioinformatics]
 categories: []
-date: 2017-10-01
+date: 2019-10-01
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

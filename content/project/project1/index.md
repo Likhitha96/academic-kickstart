@@ -4,9 +4,9 @@
 title: "Vision and Language Navigation"
 summary: ""
 authors: []
-tags: [Computer vision, Natural Language Processing]
+tags: [Computer vision, Natural Language Processing, Deep Learning]
 categories: []
-date: 2020-01-16T21:15:40+05:30
+date: 2018-10-01
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -16,8 +16,8 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
-  preview_only: false
+  focal_point: "Smart"
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
