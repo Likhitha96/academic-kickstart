@@ -23,7 +23,7 @@ bio: My research interests include artificial intelligence in computational econ
 interests:
 - Artificial Intelligence
 - Computational economics
-- Fairness and privacy
+- Computational biology
 
 
 education:
