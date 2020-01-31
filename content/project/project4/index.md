@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Visual Question Answering"
-summary: ""
+title: "Improving Clinical Decision Making through VQA"
+summary: " "
 authors: []
 tags: [Vision, Natural language, Deep Learning]
 categories: []
@@ -38,5 +38,9 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
----
 
+---
+Visual question answering(VQA) involves building a system that takes an image and a question as input and generates the answer as an output.
+We have worked on VQA-Med dataset in this project. 
+
+TECHNICAL TOOLS: Tensorflow

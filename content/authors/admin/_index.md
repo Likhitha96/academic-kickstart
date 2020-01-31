@@ -66,5 +66,5 @@ user_groups:
 - Visitors
 ---
 I pursued Integrated Master's in IIIT Bangalore and graduated with two degrees (BTech + MTech) in Information Technology.
-During my thesis, I had worked on developing a framework for Automated Mapping and Navigation Assistant using natural language instructions for indoor environments. 
+During my thesis, I had worked on developing a framework for [Automated Mapping and Navigation Assistant](files/thesis.pdf) using natural language instructions for indoor environments. 
 I am fortunate to be advised by [Prof. G Srinivasa Raghavan](https://www.iiitb.ac.in/faculty/g-srinivasaraghavan)

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Visualizing Phenotype Genotype Association"
-summary: ""
+summary: " "
 authors: []
 tags: [Big data, Bioinformatics]
 categories: []
@@ -38,5 +38,13 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
 ---
+
+Identifying associations between phenotypes and genotypes could be useful in tackling diseases/disorders. In order to do this, it is important to collect data from different sources. 
+The challenge remains in how to extract, maintain and integrate such huge amount of data.
+
+The following project deals with providing a framework that performs Extract, Transform, Load (ETL) and accumulates data in the form of a knowlegde graph that could later be mined and visualized.
+
+Techincal tools: Python, AWS Glue, Elasticsearch, Kibana, Neo4j, Cypher
 

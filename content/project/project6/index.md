@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Repair Services Application"
-summary: ""
+summary: " "
 authors: []
 tags: []
 categories: [Web Application]
@@ -38,5 +38,10 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
----
 
+---
+A lot of electronic consumer goods we buy are prone to repairs. While we have dedicated service centers and customer care, sometimes we would want to look into other repair and maintenance stores especially due to price, proximity or unavalability in the case of imported goods  
+
+This application has been designed with a motivation to create a better experience of repairs and services for electronic goods. This application is not just an aggregator but a one stop platform for both customers and repair shops to communicate with each other. 
+
+TECHNICAL TOOLS: Django, Angular, Mysql

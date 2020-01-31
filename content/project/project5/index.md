@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Multi Object Style Transfer"
-summary: ""
+summary: " "
 authors: []
 tags: [Vision, Deep Learning]
 categories: []
@@ -38,5 +38,12 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
 ---
+Style transfer is a technique of applying the style of another image on a base image called as the content image in our project. The main focus in our project was on doing style transfer for indoor house objects. 
+Given a content image of an indoor setting containing an object like a sofa and style image of another sofa design that we want, the goal was to apply the style to the content image without changing the other objects or background.
+
+We have explored different techniques like segmentation, GANs to develop this framework
+
+Technical tools: Python, Tensorflow
 
