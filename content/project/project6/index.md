@@ -44,4 +44,4 @@ A lot of electronic consumer goods we buy are prone to repairs. While we have de
 
 This application has been designed with a motivation to create a better experience of repairs and services for electronic goods. This application is not just an aggregator but a one stop platform for both customers and repair shops to communicate with each other. 
 
-TECHNICAL TOOLS: Django, Angular, Mysql
+Technical Tools: Django, Angular, Mysql

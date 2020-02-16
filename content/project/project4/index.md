@@ -43,4 +43,4 @@ slides: ""
 Visual question answering(VQA) involves building a system that takes an image and a question as input and generates the answer as an output.
 We have worked on VQA-Med dataset in this project. 
 
-TECHNICAL TOOLS: Tensorflow
+Technical Tools: Tensorflow
