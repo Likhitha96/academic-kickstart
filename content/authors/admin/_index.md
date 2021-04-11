@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Junior Data Scientist 2
+role: Data Scientist 
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include artificial intelligence in computational economics and multi-agent systems
+bio: My research interests include exploring the different spheres in computational biology like genomics, immunology and applying artificial intelligence and big data applications to understand and analyze them better
 
 interests:
-- Artificial Intelligence
-- Computational economics
 - Computational biology
+- Artificial Intelligence
 
 
 education:
